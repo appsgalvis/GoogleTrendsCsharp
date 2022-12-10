@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYorJjyvsa7Ahk6RBjtf6xyFZnPLxpCFUtjT0GsGWLDtsh0cmgSueHZIvGrHe1/iGBTP8ulgJ/QTk9tJPEzzaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johan\\OneDrive\\google trends\\DemoGoogleTrends\\DemoGoogleTrends.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
